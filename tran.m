@@ -1,5 +1,5 @@
 
-%	tran:: Translates a vector, [ox,oy,oz] with
+%	tran:: Translates a vector,vec[x,y,z] with
 %	       the given differences in every axis.
 
 
